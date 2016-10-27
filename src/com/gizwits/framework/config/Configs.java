@@ -34,9 +34,9 @@ public class Configs {
 	public static final boolean DEBUG = true;
 
 	// 设定AppID，参数为机智云官网中查看产品信息得到的AppID
-	public static final String APPID = "your_app_id";
+	public static final String APPID = "8495297f529646ddbcfe4f515e1048e0";
 	// 指定该app对应设备的product_key，如果设定了过滤，会过滤出该peoduct_key对应的设备
-	public static final String PRODUCT_KEY = "your_product_key";
+	public static final String PRODUCT_KEY = "aacfaa1cb03e496193e4feaf3f338f64";
 	// 设定日志打印级别
 
 	public static final XPGWifiLogLevel LOG_LEVEL = XPGWifiLogLevel.XPGWifiLogLevelAll;
@@ -47,6 +47,6 @@ public class Configs {
 	public static final String LOCATIONAK="F1e62d8e200e8aebda7c57a1633ae453";
 	
 	/** 产品密钥 */
-	public static final String APP_SECRET = "your_app_secret";
+	public static final String APP_SECRET = "e2826e6740f54b538c60e9debc2b525a";
 
 }
